@@ -4,8 +4,8 @@ def add(x, y):
 def multiply(x, y):
 	print(x * y)
 
-def subtraction(x, y):
+def subtract(x, y):
 	print(x - y)
 
-def division(x, y):
+def divide(x, y):
 	print(x / y)
